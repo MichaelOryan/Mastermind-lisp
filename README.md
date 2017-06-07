@@ -4,7 +4,7 @@ https://en.wikipedia.org/wiki/Mastermind_(board_game)
 
 <h2>Preface</h2>
 
-This is the first assignment for writing Mastermind which was to be done in a functional language. In this case LISP.
+This is the third assignment for writing Mastermind which was to be done in a functional paradigm. In this case the language LISP was used.
 
 <h2>Problem Description</h2>
 
